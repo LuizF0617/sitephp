@@ -1,0 +1,12 @@
+body {
+    background-color: #fdef26ff;
+}
+.dropdown-menu {
+    background-color: #f8620b;
+}
+.carousel {
+    background-color: #f8620b;
+}
+.carousel-item img {
+    margin: auto;
+}
